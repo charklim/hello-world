@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Just trying to get ahead in my graduate studies
